@@ -7,3 +7,4 @@
 - Initial documentation is complete and committed.
 - Wrote and executed the first data loading script in 04_Notebooks/01_chisco_data_exploration.ipynb. Successfully loaded a raw .edf file into MNE and generated an interactive visualization of the EEG signals.
 - Next: Build the full preprocessing pipeline based on the steps outlined in the Bao et al. and original Chisco papers.
+- Decided that initial exploration and prototyping will be done in Jupyter Notebooks, and the finalized pipeline will be refactored into a structured, script-based project for reproducible experiments.
